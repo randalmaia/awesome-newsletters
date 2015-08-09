@@ -2,7 +2,7 @@
 A collection of awesome newsletters about software development
 
 ## Front-End
-* [BrazilJS Weekly](http://us5.campaign-archive2.com/home/?u=77b6594f10bba05dcc722c80e&id=e6beed4270) - Web development news and events usually from brazillian front-end community.
+* [BrazilJS Weekly](http://us5.campaign-archive2.com/home/?u=77b6594f10bba05dcc722c80e&id=e6beed4270) -***(pt-BR)*** Web development news and events usually from brazillian front-end community.
 * [CSS Weekly](http://css-weekly.com/) - Weekly e-mail roundup of css articles, tutorials, experiments and tools.
 * [Javascript Weekly](http://javascriptweekly.com/) - Once–weekly e-mail round-up of JavaScript news and articles.
 * [HTML5 Weekly](http://html5weekly.com/) - HTML5 news and articles.
@@ -10,6 +10,7 @@ A collection of awesome newsletters about software development
 * [Web Design Weekly](http://web-design-weekly.com/) - Awesome links to the news and articles to hit the interweb during the week.
 
 ## Back-End
+* [A semana PHP](http://asemanaphp.com.br/) - ***(pt-BR)*** Weekly PHP topics curated by brazillian community.
 * [Golang Weekly](http://golangweekly.com/) - Golang related articles.
 * [Node Weekly](http://nodeweekly.com/) - Round-up of Node.js news and articles.
 * [Ruby Weekly](http://rubyweekly.com/) - Ruby related articles and news.
