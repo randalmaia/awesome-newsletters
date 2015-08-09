@@ -19,4 +19,5 @@ A collection of awesome newsletters about software development
 * [Bitcoin Weekly](http://bitcoinweekly.com/) - Bitcoin related news and articles.
 * [Docker Weekly](https://www.docker.com/newsletter-subscription) - Docker related articles - curated by Docker.
 * [PostgreSQL Weekly](http://postgresweekly.com/) - PostgreSQL news and articles.
+* [Sidebar.io](http://sidebar.io/) - Sidebar is a list of the 5 best design links of the day. It's collaborative and manually curated by a couple great editors.
 
