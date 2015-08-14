@@ -22,3 +22,4 @@ A collection of awesome newsletters about software development
 * [PostgreSQL Weekly](http://postgresweekly.com/) - PostgreSQL news and articles.
 * [Sidebar.io](http://sidebar.io/) - Sidebar is a list of the 5 best design links of the day. It's collaborative and manually curated by a couple great editors.
 * [NoSQL Weekly](http://us2.campaign-archive2.com/home/?u=72f68dcee17c92724bc7822fb&id=2f0470315b) - Curated news and articles.
+* [DB Weekly](http://dbweekly.com/issues) - Awesome links about database world.
