@@ -11,6 +11,7 @@ A collection of awesome newsletters about software development
 
 ## Back-End
 * [A semana PHP](http://asemanaphp.com.br/) - ***(pt-BR)*** Weekly PHP topics curated by brazillian community.
+* [Correio WP](http://correiowp.com/) - ***(pt-BR)*** Weekly about WordPress universe in Portuguese.
 * [Golang Weekly](http://golangweekly.com/) - Golang related articles.
 * [Node Weekly](http://nodeweekly.com/) - Round-up of Node.js news and articles.
 * [Ruby Weekly](http://rubyweekly.com/) - Ruby related articles and news.
