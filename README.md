@@ -8,6 +8,7 @@ A collection of awesome newsletters about software development
 * [HTML5 Weekly](http://html5weekly.com/) - HTML5 news and articles.
 * [ng-newsletter](http://www.ng-newsletter.com/) - The free, weekly newsletter of the best AngularJS content on the web.
 * [Web Design Weekly](http://web-design-weekly.com/) - Awesome links to the news and articles to hit the interweb during the week.
+* [Accessibility Weekly](http://a11yweekly.com/) - A weekly dose of web accessibility to help you bring it into your every day work. 
 
 ## Back-End
 * [A semana PHP](http://asemanaphp.com.br/) - ***(pt-BR)*** Weekly PHP topics curated by brazillian community.
