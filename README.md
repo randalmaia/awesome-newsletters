@@ -12,6 +12,7 @@ A collection of awesome newsletters about software development
 ## Back-End
 * [A semana PHP](http://asemanaphp.com.br/) - ***(pt-BR)*** Weekly PHP topics curated by brazillian community.
 * [Correio WP](http://correiowp.com/) - ***(pt-BR)*** Weekly about WordPress universe in Portuguese.
+* [A semana Go](https://www.getrevue.co/profile/a-semana-go) - ***(pt-BR)*** Weekly about Golang universe in Portuguese.
 * [Golang Weekly](http://golangweekly.com/) - Golang related articles.
 * [Node Weekly](http://nodeweekly.com/) - Round-up of Node.js news and articles.
 * [Ruby Weekly](http://rubyweekly.com/) - Ruby related articles and news.
@@ -24,3 +25,4 @@ A collection of awesome newsletters about software development
 * [Sidebar.io](http://sidebar.io/) - Sidebar is a list of the 5 best design links of the day. It's collaborative and manually curated by a couple great editors.
 * [NoSQL Weekly](http://us2.campaign-archive2.com/home/?u=72f68dcee17c92724bc7822fb&id=2f0470315b) - Curated news and articles.
 * [DB Weekly](http://dbweekly.com/issues) - Awesome links about database world.
+* [KubeWeekly](https://us10.campaign-archive.com/home/?u=3885586f8f1175194017967d6&id=11c1b8bcb2) - Weekly about Kubernetes  curated by CNCF Team.
